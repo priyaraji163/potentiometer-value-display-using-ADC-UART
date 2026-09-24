@@ -34,7 +34,8 @@
 14. Verify that the ADC count and voltage increase or decrease according to the potentiometer position.
 
 ---
-## OUTPUT
+## LOGIC
+<img width="983" height="692" alt="image" src="https://github.com/user-attachments/assets/bc9a9812-f335-47c4-a25e-87e1487ce530" />
 
 
 
